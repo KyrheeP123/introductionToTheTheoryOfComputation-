@@ -1,3 +1,5 @@
+Link for Solutions: https://github.com/ryandougherty/Introduction-to-the-Theory-of-Computation-Solutions`
+
 1. Introduction to the Theory of Computation 
     1. Kind: Practical 
     2. Subject: Theory of Computation 
