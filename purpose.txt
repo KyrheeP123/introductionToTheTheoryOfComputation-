@@ -1,1 +1,21 @@
-<ol><li>Introduction to the Theory </li></ol><attachment contenteditable="false" data-atts="%5B%5D" data-aid=".atts-6e5d7394-d9df-4c44-9156-e0356ddd3d39"></attachment><p><br></p>
+1. Introduction to the Theory of Computation 
+    1. Kind: Practical 
+    2. Subject: Theory of Computation 
+    3. Summary: Modeling computers to observer theoretical behavior and limitations applied to various problems in the field of computer science 
+    4. Major Parts:
+        1. Intro to theory of computation 
+        2. Automata and Languages
+            1. Regular Languages 
+            2. Context-Free Languages
+        3. Computability Theory 
+            1. The Church-Turing Thesis 
+            2. Decidability  
+            3. Reducibility 
+            4. Advanced Topics in Computability Theory 
+        4. Complexity Theory 
+            1. Time complexity 
+            2. Space Complexity 
+            3. Intractability 
+            4. Advanced topics in complexity theory 
+    5. Problems: 
+        1. Attempt to place the computer as a theoretical thing in the reader’s mind rather then the machine people use
