@@ -1,0 +1,4 @@
+Introduction Exercises
+Covering:
+- Formal & Informal descriptions of sets
+- 
