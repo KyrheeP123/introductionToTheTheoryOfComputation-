@@ -1,0 +1,3 @@
+1. What comes first, the algorithm or the mathematical model of the computer ? 
+    - I think it should be the alogrithm which hopefully is designed well. This reiterates the need to study the Algorithms Design book. From what I recall, stating the problem,      formulating the problem, and designing the algorithm are the main steps I have learned so far from the problem. Additionally, one should proof that their algorithm works.
+      After, these steps are complete then, one can move on do designing a automata to implement the algorithm in a computer. 
