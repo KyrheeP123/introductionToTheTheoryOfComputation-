@@ -1,4 +1,12 @@
 Introduction Exercises
 Covering:
 - Formal & Informal descriptions of sets
-- 
+- Set Operations
+    - Union(U), Intersection(∩), Power Set(P(A)), and Cross Product(A X B)
+- Functions (f: Domain(input) -> Range(output)
+- Equivalence Relations: 
+    - Reflexive, Transitive, Symmectric 
+- Graphs and formal descriptions of Graphs
+    - Undirected
+    - Directed
+- Proofs
